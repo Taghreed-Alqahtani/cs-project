@@ -1,0 +1,13 @@
+C:\Users\Taghr\source\repos\sudoku_solver\sudoku_solver\bin\Debug\netcoreapp3.1\sudoku_solver.exe
+C:\Users\Taghr\source\repos\sudoku_solver\sudoku_solver\bin\Debug\netcoreapp3.1\sudoku_solver.deps.json
+C:\Users\Taghr\source\repos\sudoku_solver\sudoku_solver\bin\Debug\netcoreapp3.1\sudoku_solver.runtimeconfig.json
+C:\Users\Taghr\source\repos\sudoku_solver\sudoku_solver\bin\Debug\netcoreapp3.1\sudoku_solver.runtimeconfig.dev.json
+C:\Users\Taghr\source\repos\sudoku_solver\sudoku_solver\bin\Debug\netcoreapp3.1\sudoku_solver.dll
+C:\Users\Taghr\source\repos\sudoku_solver\sudoku_solver\bin\Debug\netcoreapp3.1\sudoku_solver.pdb
+C:\Users\Taghr\source\repos\sudoku_solver\sudoku_solver\obj\Debug\netcoreapp3.1\sudoku_solver.csprojAssemblyReference.cache
+C:\Users\Taghr\source\repos\sudoku_solver\sudoku_solver\obj\Debug\netcoreapp3.1\sudoku_solver.AssemblyInfoInputs.cache
+C:\Users\Taghr\source\repos\sudoku_solver\sudoku_solver\obj\Debug\netcoreapp3.1\sudoku_solver.AssemblyInfo.cs
+C:\Users\Taghr\source\repos\sudoku_solver\sudoku_solver\obj\Debug\netcoreapp3.1\sudoku_solver.csproj.CoreCompileInputs.cache
+C:\Users\Taghr\source\repos\sudoku_solver\sudoku_solver\obj\Debug\netcoreapp3.1\sudoku_solver.dll
+C:\Users\Taghr\source\repos\sudoku_solver\sudoku_solver\obj\Debug\netcoreapp3.1\sudoku_solver.pdb
+C:\Users\Taghr\source\repos\sudoku_solver\sudoku_solver\obj\Debug\netcoreapp3.1\sudoku_solver.genruntimeconfig.cache
