@@ -1,0 +1,13 @@
+C:\Users\Taghr\source\repos\student_grades\student_grades\bin\Debug\netcoreapp3.1\student_grades.exe
+C:\Users\Taghr\source\repos\student_grades\student_grades\bin\Debug\netcoreapp3.1\student_grades.deps.json
+C:\Users\Taghr\source\repos\student_grades\student_grades\bin\Debug\netcoreapp3.1\student_grades.runtimeconfig.json
+C:\Users\Taghr\source\repos\student_grades\student_grades\bin\Debug\netcoreapp3.1\student_grades.runtimeconfig.dev.json
+C:\Users\Taghr\source\repos\student_grades\student_grades\bin\Debug\netcoreapp3.1\student_grades.dll
+C:\Users\Taghr\source\repos\student_grades\student_grades\bin\Debug\netcoreapp3.1\student_grades.pdb
+C:\Users\Taghr\source\repos\student_grades\student_grades\obj\Debug\netcoreapp3.1\student_grades.csprojAssemblyReference.cache
+C:\Users\Taghr\source\repos\student_grades\student_grades\obj\Debug\netcoreapp3.1\student_grades.AssemblyInfoInputs.cache
+C:\Users\Taghr\source\repos\student_grades\student_grades\obj\Debug\netcoreapp3.1\student_grades.AssemblyInfo.cs
+C:\Users\Taghr\source\repos\student_grades\student_grades\obj\Debug\netcoreapp3.1\student_grades.csproj.CoreCompileInputs.cache
+C:\Users\Taghr\source\repos\student_grades\student_grades\obj\Debug\netcoreapp3.1\student_grades.dll
+C:\Users\Taghr\source\repos\student_grades\student_grades\obj\Debug\netcoreapp3.1\student_grades.pdb
+C:\Users\Taghr\source\repos\student_grades\student_grades\obj\Debug\netcoreapp3.1\student_grades.genruntimeconfig.cache
